@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+
+.submit-container{
+  margin:40px auto;
+}
+/* FORM */
+.form-container{
+  min-height:600px;
+  width:300px;
+  margin:40px auto;
+}
+/* FOOTER */
+.App-footer {
+  position: absolute;
+  bottom: 0;
+  width:100vw;
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
